@@ -26,7 +26,7 @@ Paříž; 17. století.
 
 ### Kompoziční výstavba
 
-Kompoziční postup. Odehrává se v jeden čas, na jednom místě a má jeden děj.
+Chronologický postup. Odehrává se v jeden čas, na jednom místě a má jeden děj. Členěno do 5 aktů. Složitější komediální zápletka.
 
 ### Literární druh a žánr
 
@@ -78,7 +78,7 @@ Monology i dialogy.
 
 Nejproslulejší Moliérova hra, inspirována Komedií o hrci - Plautus.
 
-Kritika soudobé společnosti. Dílo bylo mnohokrát zfilmováno, např. francouzská verze s Louis de Funes.
+Kritika soudobé společnosti. Dílo bylo mnohokrát zfilmováno, např. francouzská verze s Louis de Funes. Ve své době (17. stol) se však hra neuchytila, přispělo k tomu to, že byla psaná prózou a také svými pokrokovými myšlenkami, kterými daleko předběhla svou dobu.
 
 ### Literální / obecně kulturní kontext
 
