@@ -13,6 +13,10 @@ Příspívání obsahem, opravou obsahu či alespoň hlášením chyb je velmi v
 
 Pokud nastane situace, kdy dané dílo (např. kniha k četbě) není v aktuálním seznamu pro maturitu, takové dílo se nemaže, ale je přesunuto (v README) na konec do speciálního seznamu (např. "nadbytečné soubory"), pro případ budoucích změn, které by dané dílo znovu do aktuálního seznamu vrátily.
 
+## Formát
+
+Všechny soubory jsou psány ve formátu [Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax).
+
 ## Výtisk dokumentu
 
 Každý dokument lze vytisknou, např. využitím webové aplikace GitPrint, kde pro vygenerování PDF stačí zaměnit doménu v URL z `github.com` za `gitprint.com` a zbytek URL ponechat nezměněný.
