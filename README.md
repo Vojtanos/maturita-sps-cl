@@ -1,7 +1,5 @@
 # Maturitní témata SPŠ Česká Lípa
 
-Aktuálně zpracováno pro školní rok 2015/2016.
-
 ## Okruhy
 
 - [Český Jazyk](cesky-jazyk)
