@@ -1,3 +1,3 @@
 # Hardware
 
-- [Karnaughovy mapy](karnaughovy-mapy)
+- [Karnaughovy mapy](karnaughovy-mapy.md)
