@@ -13,30 +13,30 @@ Karnaughova mapa je tabulka o počtu 2^N buněk, kde N je počet proměnných. T
 ### 1. Z funkce
 Zadání: Minimalizujte funkci.
 
-<img alt="Zadání 1" src="./234-karnaughovy-mapy-2.png" width="250">
+<img alt="Zadání 1" src="./obrazky/234-karnaughovy-mapy-2.png" width="250">
 
 #### 1. Krok - Tabulka
 Nakreslíme tabulku. O počtu 2^N buněk, kde N je počet proměnných, tj. 2^4.
 
-<img alt="Tabulka" src="./234-karnaughovy-mapy-3.png" width="300">
+<img alt="Tabulka" src="./obrazky/234-karnaughovy-mapy-3.png" width="300">
 
 #### 2. Krok - Zápis
 V první řadě je potřeba si určit co a jak zapisujeme do tabulky. Jednotlivé proměnnné v členu (člen jsou proměnné spojené logickým součinem) mohou nabývat celkem 3 stavů - **Přímý**, **nepřímý** (negovaný) a **neurčitý** (není zapsán ve členu).
 
-<img alt="Zadání 1" src="./234-karnaughovy-mapy-2.png" width="250">
+<img alt="Zadání 1" src="./obrazky/234-karnaughovy-mapy-2.png" width="250">
 
-- Proměnná A v první členu je **přímá** - musí být ve sloupci A, viz. obrázek
+- Proměnná A v první členu je **přímá** - musí být ve sloupci A
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-4.png" width="300">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-4.png" width="300">
 
- - Proměnná B v první členu je **nepřímá** (znegovaná) - nesmí být ve sloupci B, viz. obrázek
+ - Proměnná B v první členu je **nepřímá** (znegovaná) - nesmí být ve sloupci B
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-5.png" width="300">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-5.png" width="300">
 
  - Proměnná C v první členu je **neurčitá** (není zapsaná) - musí se objevit v řádku C, ale **i mimo něj!** Pokud se proměnná v daném sloupci/řádku objeví a zároveň je i mimo něj - **nepíše se do vzorce!**
- - Proměnná D v první členu je **přímá** - musí se být v řádku D, viz. obrázek
+ - Proměnná D v první členu je **přímá** - musí se být v řádku D
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-6.png" width="300">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-6.png" width="300">
 
 Z následujících podmínek (zakreslené v obrázku) určíme místo zapsání jedniček. Víme tedy, že:
 - Všechny musít být v A
@@ -50,15 +50,15 @@ Zároveň ale víme, že jednička se musí objevit v C i mimo C (aby člen byl 
 
 Podle předchozích pravidel zapíšeme do tabulky.
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-7.png" width="400">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-7.png" width="400">
 
 Stejné aplikujeme na další člen.
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-8.png" width="400">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-8.png" width="400">
 
 A nakonec na 3. a zároveň poslední
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-9.png" width="400">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-9.png" width="400">
 
 #### 3. Krok - Smyčky
 
@@ -72,7 +72,7 @@ V následujícím zápisu určíme **tzv. smyčky**. Pro smyčky platí určitá
 
 Určíme tedy smyčky
 
-<img alt="Tabulka zápis" src="./234-karnaughovy-mapy-10.png" width="400">
+<img alt="Tabulka zápis" src="./obrazky/234-karnaughovy-mapy-10.png" width="400">
 
 #### 4. Krok - Výsledná funkce
 
@@ -86,7 +86,7 @@ Vyberu si první smyčku (zelená vlevo dole) a ptám se, kde všude se jednotli
 
 Tato smyčka bude mít tedy následující zápis
 
-<img alt="Výsledek první smyčka" src="./234-karnaughovy-mapy-11.png" width="150">
+<img alt="Výsledek první smyčka" src="./obrazky/234-karnaughovy-mapy-11.png" width="150">
 
 Vyberu si druhou smyčku a ptám se, kde všude se jednotlivé proměnné (ABCD) nachází:
 - Nachází se ve sloupci A? **ANO**. Nachází se mimo sloupec A? **ANO**. - člen bude **neurčitý (nezapisuje se)**
@@ -96,15 +96,15 @@ Vyberu si druhou smyčku a ptám se, kde všude se jednotlivé proměnné (ABCD)
 
 Jednotlivé smyčky v konečném zápisu oddělím logickým součtem. Konečný zápis zminimalizované funkce bude tedy
 
-<img alt="Výsledek" src="./234-karnaughovy-mapy-12.png" width="250">
+<img alt="Výsledek" src="./obrazky/234-karnaughovy-mapy-12.png" width="250">
 
 #### BONUS - Zvláštnosti u smyček
 
 Buňky v karnaughových mapách spolu sousedí také takto
 
-<img alt="Zvlášnost 1" src="./234-karnaughovy-mapy-13.png" width="350">
+<img alt="Zvlášnost 1" src="./obrazky/234-karnaughovy-mapy-13.png" width="350">
 
-<img alt="Zvláštnost 2" src="./234-karnaughovy-mapy-14.png" width="300">
+<img alt="Zvláštnost 2" src="./obrazky/234-karnaughovy-mapy-14.png" width="300">
 
 ### 2. Ze sumy
 Někdy příště
