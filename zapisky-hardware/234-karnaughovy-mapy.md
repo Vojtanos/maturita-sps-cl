@@ -92,7 +92,7 @@ Vyberu si druhou smyčku a ptám se, kde všude se jednotlivé proměnné (ABCD)
 - Nachází se ve sloupci A? **ANO**. Nachází se mimo sloupec A? **ANO**. - člen bude **neurčitý (nezapisuje se)**
 - Nachází se ve sloupci B? **NE**. Nachází se mimo sloupec B? **ANO**. - člen bude **přímý**
 - Nachází se ve sloupci C? **ANO**. Nachází se mimo sloupec C? **NE**. - člen bude **přímý**
-- Nachází se ve sloupci D? **NE**. Nachází se mimo sloupec D? **NE**. - člen bude **nepřímý (zneguje se)**
+- Nachází se ve sloupci D? **NE**. Nachází se mimo sloupec D? **ANO**. - člen bude **nepřímý (zneguje se)**
 
 Jednotlivé smyčky v konečném zápisu oddělím logickým součtem. Konečný zápis zminimalizované funkce bude tedy
 
