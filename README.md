@@ -1,9 +1,10 @@
 # Maturitní témata SPŠ Česká Lípa
 
-## Okruhy
+## Materiály
 
 - [Český Jazyk](cesky-jazyk)
 - [Software](software)
+- [Hardware](hardware)
 
 ## Přispívání
 
