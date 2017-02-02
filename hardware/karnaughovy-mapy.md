@@ -5,7 +5,7 @@ Jedná se o grafické vyjádření logické funkce. Jsou vhodné pro minimalizac
 ## Velikost
 Karnaughova mapa je tabulka o počtu 2^N buněk, kde N je počet proměnných. Tabulka o 4 proměnných (*ABCD*) bude mít tedy velikost 16 buněk.
 
-<img alt="Indexy v Karnaughových mapách" src="./234-karnaughovy-mapy-1.png" width="300">
+<img alt="Indexy v Karnaughových mapách" src="./01.png" width="300">
 
 Čísla jsou indexy jednotlivých buněk. Ano to řazení tak opravdu je. Pruhem jsou označeny sloupce / řádky kde je proměnná přímá (bez negace). Zapisujeme 1 nebo 0 (není potřeba psát).
 
