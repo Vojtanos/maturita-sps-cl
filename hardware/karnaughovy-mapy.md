@@ -69,6 +69,7 @@ V následujícím zápisu určíme **tzv. smyčky**. Pro smyčky platí určitá
 - smyčky se snažíme uzavírat co největší (aby byl výsledný člen co nejvíce zminimalizováný)
 - počet smyček má být co nejmenší (každé smyčka je totiž jeden výsledný člen)
 - všechny jedničky musí být uzavřeny ve smyčkách
+- jedničky lze použít vícekrát (ve více smyčkách)
 
 Určíme tedy smyčky
 
