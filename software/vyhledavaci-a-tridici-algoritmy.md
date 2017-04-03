@@ -140,7 +140,7 @@ Prochází prvky postupně a každý nesetříděný prvek zařadí na správné
 
 Je jeden z nejrychlejších algoritmů. Časová náročnost je kvadratická O(n^2). Je efektivní v malých množinách a je stabilní.
 
-````
+```
 function insertionSort(array a) 
   for i in 0 -> a.length - 2 do
     j = i + 1 neprohodí na správné místo
