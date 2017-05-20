@@ -126,7 +126,7 @@ Zabývá se psychologií postav. Rozvrácené postavy, osudy, tragédie a lidsk�
 
 - Jaroslav Havlíček 
 
-##Katolický proud
+## Katolický proud
 
 Hlavním tématem je náboženství. 
 
