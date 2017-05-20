@@ -20,4 +20,4 @@ Každý dokument lze vytisknout pomocí webové aplikace GitPrint. Pro vygenerov
 
 ## Licence
 
-Licencováno pod licencí [CC0 1.0](LICENSE).
+Licencováno pod licencí [CC0 1.0 Universal](LICENSE).
