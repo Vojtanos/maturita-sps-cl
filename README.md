@@ -8,16 +8,18 @@
 
 ## Přispívání
 
-Příspívání obsahem, opravou obsahu či alespoň hlášením chyb je velmi vítáno. Nebráním se ani obsahu z jiných oborů. Přispívání musí obsahovat pouze stručné, podstatné a ověřené informace.
+Úpravy, komentáře a rozšíření jsou vítány. Každý materiál by měl obsahovat pouze podstatné a oveřené informace.
 
-Pokud nastane situace, kdy dané dílo (např. kniha k četbě) není v aktuálním seznamu pro maturitu, takové dílo se nemaže, ale je přesunuto (v README) na konec do speciálního seznamu (např. "ostatní díla"), pro případ budoucích změn, které by dané dílo znovu do aktuálního seznamu vrátily.
+Všechny soubory jsou psány ve formátu [markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax). Při přispívání tento formát, prosím, dodržujte.
 
-## Formát
+## Tisk
 
-Všechny soubory jsou psány ve formátu [markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax).
+Každý dokument lze vytisknout pomocí webové aplikace GitPrint. Pro vygenerování PDF z dokumentu stačí v URL zaměnit doménu `github.com` na `gitprint.com` a zbytek URL ponechat nezměněný.
 
-## Výtisk dokumentu
+## TL;DR
 
-Každý dokument lze vytisknout např. pomocí webové aplikace GitPrint, kde pro vygenerování PDF stačí zaměnit doménu v URL z `github.com` na `gitprint.com` a zbytek URL ponechat nezměněný.
+Repozitář obsahuje neoficiální materiály k přípravě na maturitní zkoušku. Úpravy, komentáře a rozšíření jsou vítány.
 
-## [Licence](LICENSE)
+## Licence
+
+Licencováno pod [MIT licencí](LICENSE).
