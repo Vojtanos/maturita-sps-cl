@@ -1,4 +1,6 @@
-# Maturitní témata SPŠ Česká Lípa
+# Maturitní témata [SPŠ Česká Lípa](http://sps-cl.cz)
+
+Repozitář obsahuje neoficiální materiály k přípravě na maturitní zkoušku. Všechny materiály byly vypracovány jejich přispěvateli.
 
 ## Materiály
 
@@ -16,10 +18,6 @@ Všechny soubory jsou psány ve formátu [markdown](https://help.github.com/arti
 
 Každý dokument lze vytisknout pomocí webové aplikace GitPrint. Pro vygenerování PDF z dokumentu stačí v URL zaměnit doménu `github.com` na `gitprint.com` a zbytek URL ponechat nezměněný.
 
-## TL;DR
-
-Repozitář obsahuje neoficiální materiály k přípravě na maturitní zkoušku. Úpravy, komentáře a rozšíření jsou vítány.
-
 ## Licence
 
-Licencováno pod [MIT licencí](LICENSE).
+Licencováno pod licencí [CC0 1.0](LICENSE).
