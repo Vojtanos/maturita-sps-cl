@@ -27,8 +27,8 @@
 
 ### Literárněhistorický kontext
 
-  * kontext autorovy tvorby
-  * literární / obecně kulturní kontext
+* kontext autorovy tvorby
+* literární / obecně kulturní kontext
 
 ## Analýza neuměleckého textu
 
