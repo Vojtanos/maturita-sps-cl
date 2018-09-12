@@ -4,7 +4,7 @@
 
 ### Zasazení výňatku do kontextu díla
 
-Text je rozdělen do tří čásí.
+Text je rozdělen do tří částí.
 
 - **1. část**
 
@@ -16,7 +16,7 @@ Jediný z rodiny, kdo se Řehoře nestraní, je jeho sestra Markétka, pravideln
 
 - **3. část**
 
-Řehoř se léčil více než měsíc. Rodina mu nyní každý večer otevírala dveře a on pozoroval, co večer matka, otec a sestra dělají. Rodina finančně strádala, otec se nechal zaměstnat jako sluha, sestra jako prodavačka, ale stejně museli rozprodávat majetek. Markétka už o Řehoře tolik nepečovala – dvakrát denně mu nosila jídlo, ale už se nestarala, kolik toho sní. Pokoj byl špinavý a neuklidila ho ani nová posluchovačka. Ta jediná se Řehoře nebála, dokonce se na něj chodila dívat. V bytě nyní byli tři podnájemníci, kterým matka s Markétkou podstrojovaly. Jednou nájemníci seděli v obývacím pokoji, Markétka jim hrála na housle a oni zahlédli dveřmi Řehoře. Okamžitě dali výpověď. Markétka nyní poprvé vysloví myšlenku, kterou se všichni báli říct – Řehoř je jim na obtíž a je potřeba se ho zbavit. Řehoř všechno vyslechl a uznal, že jeho život nemá cenu. V noci vydechl naposledy, ráno ho našla posluhovačka. Celé rodině se ulevilo, mohli se nyní přestěhovat do menšího bytu.
+Řehoř se léčil více než měsíc. Rodina mu nyní každý večer otevírala dveře a on pozoroval, co večer matka, otec a sestra dělají. Rodina finančně strádala, otec se nechal zaměstnat jako sluha, sestra jako prodavačka, ale stejně museli rozprodávat majetek. Markétka už o Řehoře tolik nepečovala – dvakrát denně mu nosila jídlo, ale už se nestarala, kolik toho sní. Pokoj byl špinavý a neuklidila ho ani nová posluhovačka. Ta jediná se Řehoře nebála, dokonce se na něj chodila dívat. V bytě nyní byli tři podnájemníci, kterým matka s Markétkou podstrojovaly. Jednou nájemníci seděli v obývacím pokoji, Markétka jim hrála na housle a oni zahlédli dveřmi Řehoře. Okamžitě dali výpověď. Markétka nyní poprvé vysloví myšlenku, kterou se všichni báli říct – Řehoř je jim na obtíž a je potřeba se ho zbavit. Řehoř všechno vyslechl a uznal, že jeho život nemá cenu. V noci vydechl naposledy, ráno ho našla posluhovačka. Celé rodině se ulevilo, mohli se nyní přestěhovat do menšího bytu.
 
 ### Téma a motiv
 
