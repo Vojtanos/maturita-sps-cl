@@ -66,7 +66,7 @@ Obsahuje 4 zpěvy a 2 mezizpěvy.
 
 ### Literární druh a žánr
 
-Lyricko-epická báseň (= dílo má děj a jsou zde líčeny i pocity). Poezie.
+Lyricko-epická báseň (= dílo má děj a jsou zde líčeny i pocity). Poema.
 
 ### Vypravěč / lyrický subjekt
 
