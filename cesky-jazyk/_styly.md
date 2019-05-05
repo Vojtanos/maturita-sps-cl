@@ -112,7 +112,12 @@ Dada = dětská hračka. Umělecký protest proti válce. Hravost. Chtěli čeli
 
 ## Suerralismus
 
-Nadrealismus. Obrazotvornost a fantazie. Snaha najít zdroj tvorby v podvědomí. Z prvků běžné reality vytvářejí novou realitu.  
+Nadrealismus. Obrazotvornost a fantazie. Snaha najít zdroj tvorby v podvědomí. Z prvků běžné reality vytvářejí novou realitu.
+## Anarchističtí buřiči
+
+povrhovali soudobou společností, její konzervativní morálkou a spořádanou existencí. Propagovali přirozenou lásku, detabuizovali sexualitu, kritizovali tradiční manželství. Vedli bohémský život (včetně bouřlivých setkání v Neumannově vile na Olšanech).
+
+*Viktor Dyk, František Gellner, Fráňa Šrámek, Karel Toman, Stanislav Kostka Neumann
 
 ## Demokratický proud
 
